@@ -1,6 +1,6 @@
-# Sounds Like Itself: What Separates Music Genres on Spotify?
+# Genre by Sound: What Separates Music Genres on Spotify?
 
-**By:** (your name(s) here)
+**By:** Hanit Kumar
 
 ---
 
